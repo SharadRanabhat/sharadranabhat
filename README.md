@@ -1,16 +1,23 @@
-### Hi there 👋
+huh- 👋 Hi, I’m @sharadranabhat.
+- 👀 I’m interested in Exploring and Trying New things.
+- 🌱 I’m currently learning python.
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SharadRanabhat&show_icons=true&theme=dark&locale=en&layout=compact" alt="SharadRanabhat" />
+</p>
 
-<!--
-**SharadRanabhat/sharadranabhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SharadRanabhat&show_icons=true&theme=dark&locale=en" alt="SharadRanabhat" />
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SharadRanabhat&theme=dark&locale=en" alt="SharadRanabhat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p alight="right">
+<img align="right" src="https://komarev.com/ghpvc/?username=SharadRanabhat&style=plastic&color=blue" />
+</p>
+
+<!---
+saurav1044/saurav1044 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

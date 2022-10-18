@@ -1,6 +1,6 @@
-huh- 👋 Hi, I’m @sharadranabhat.
+👋 Hi, I’m @sharadranabhat.
 - 👀 I’m interested in Exploring and Trying New things.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning Flutter.
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SharadRanabhat&show_icons=true&theme=dark&locale=en&layout=compact" alt="SharadRanabhat" />
 </p>
